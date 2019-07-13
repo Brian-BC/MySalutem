@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d4a9ec8-d8c4-41ad-9bec-fd69b30d7596" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo/Banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo/Banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/departments.html" beforeDir="false" afterPath="$PROJECT_DIR$/departments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctors.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="384" column="29" lean-forward="true" selection-start-line="384" selection-start-column="29" selection-end-line="384" selection-end-column="29" />
+            <state relative-caret-position="376">
+              <caret line="80" column="51" lean-forward="true" selection-start-line="80" selection-start-column="51" selection-end-line="80" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="5436" selection-start-column="5436" selection-end-column="5436" />
             </state>
           </provider>
         </entry>
@@ -44,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/departments.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="127" selection-start-line="37" selection-start-column="127" selection-end-line="37" selection-end-column="127" />
+            <state relative-caret-position="832">
+              <caret line="100" column="38" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -53,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doctors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="37" column="127" selection-start-line="37" selection-start-column="127" selection-end-line="37" selection-end-column="127" />
+            <state relative-caret-position="135">
+              <caret line="93" column="138" selection-start-line="93" selection-start-column="138" selection-end-line="93" selection-end-column="138" />
             </state>
           </provider>
         </entry>
@@ -62,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="1786">
+              <caret line="135" column="45" lean-forward="true" selection-start-line="135" selection-start-column="45" selection-end-line="135" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -78,10 +68,24 @@
       <find>banner</find>
       <find>medical@example.com</find>
       <find>element</find>
+      <find>mt-3</find>
+      <find>template</find>
+      <find>template-btn</find>
+      <find>btn</find>
+      <find>.template-btn</find>
+      <find>244cfd</find>
+      <find>15e4fd</find>
       <find>blog</find>
+      <find>h1</find>
+      <find>font-weight:700</find>
+      <find>font-size:45</find>
+      <find>h2</find>
+      <find>.p</find>
+      <find>inline-block</find>
     </findStrings>
     <replaceStrings>
       <replace>}</replace>
+      <replace>B597B3</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -90,15 +94,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/departments.html" />
-        <option value="$PROJECT_DIR$/doctors.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/elements.html" />
         <option value="$PROJECT_DIR$/blog-home.html" />
         <option value="$PROJECT_DIR$/blog-details.html" />
+        <option value="$PROJECT_DIR$/departments.html" />
+        <option value="$PROJECT_DIR$/doctors.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
@@ -188,11 +192,11 @@
     <frame x="21" y="39" width="1400" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -207,48 +211,18 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap-4.1.3.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4337" />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/medino/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-668" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.map">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-112" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/departments.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="127" selection-start-line="37" selection-start-column="127" selection-end-line="37" selection-end-column="127" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="37" column="127" selection-start-line="37" selection-start-column="127" selection-end-line="37" selection-end-column="127" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
@@ -279,10 +253,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/doctors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="93" column="138" selection-start-line="93" selection-start-column="138" selection-end-line="93" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1786">
+          <caret line="135" column="45" lean-forward="true" selection-start-line="135" selection-start-column="45" selection-end-line="135" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/departments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="100" column="38" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap-4.1.3.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="5" column="4642" lean-forward="true" selection-start-line="5" selection-start-column="4490" selection-end-line="5" selection-end-column="4642" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/linearicons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7154">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/nice-select.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/owl-carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="384" column="29" lean-forward="true" selection-start-line="384" selection-start-column="29" selection-end-line="384" selection-end-column="29" />
+        <state relative-caret-position="376">
+          <caret line="80" column="51" lean-forward="true" selection-start-line="80" selection-start-column="51" selection-end-line="80" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5436" selection-start-column="5436" selection-end-column="5436" />
         </state>
       </provider>
     </entry>
